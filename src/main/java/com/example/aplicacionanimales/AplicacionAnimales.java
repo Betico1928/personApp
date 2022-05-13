@@ -22,6 +22,7 @@ public class AplicacionAnimales extends Application
         stage.show();
 
         // Hola, mi nombre es Alberto.
+        
     }
 
     public static void main(String[] args)
