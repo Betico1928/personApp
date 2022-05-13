@@ -20,6 +20,8 @@ public class AplicacionAnimales extends Application
         stage.setTitle("Super Animales!");
         stage.setScene(scene);
         stage.show();
+
+        // Hola, mi nombre es Alberto.
     }
 
     public static void main(String[] args)
